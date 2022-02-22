@@ -11,8 +11,12 @@
   
 <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="C" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="left" alt="Albert" height="110" src="https://media.discordapp.net/attachments/915636794383532055/945814961991594044/7gLJ.gif">
+  
+   
+    
   </div>
   
   
