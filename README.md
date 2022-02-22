@@ -17,6 +17,7 @@
   
  ![Snake animation](https://github.com/lucasmello903/lucasmello903/blob/output/github-contribution-grid-snake.svg)
   
+  </div>
  
  
  
