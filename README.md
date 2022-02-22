@@ -15,7 +15,7 @@
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   </div>
   
- ![Snake animation](https://github.com/lucasmello903/lucasmello903/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/lucasmello903/README.md/blob/output/github-contribution-grid-snake.svg)
   
   </div>
  
