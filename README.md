@@ -4,7 +4,7 @@
 - 📫 Contate-me no email: lucasmello903@gmail.com
 - 🎓 Academico de Engenharia de Computação
 
-<div align="center">
+</div>
   <a href="https://github.com/lucasmello903">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasmello903&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
     </div>
