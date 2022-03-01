@@ -16,7 +16,7 @@
   <img align="left" alt="Albert" height="110" src="https://media.discordapp.net/attachments/915636794383532055/945814961991594044/7gLJ.gif">
   <img align="center" alt="C++" height="40"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
   
-   .
+   
     
   </div>
   
