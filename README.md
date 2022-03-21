@@ -1,6 +1,5 @@
 ## Olá! Me Chamo Lucas Mello
 
-- 📱  Estudando Desenvolvimento Android
 - 📫 Contate-me no email: lucasmello903@gmail.com
 - 🎓 Academico de Engenharia de Computação
 
