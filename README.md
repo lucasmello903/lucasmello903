@@ -1,7 +1,7 @@
 ## Olá! 
 
 - Acadêmico de Engenharia de Computação
-- Softwate Test
+- Softwate Tester
 
 
 </div>
