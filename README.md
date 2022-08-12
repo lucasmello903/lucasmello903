@@ -2,13 +2,12 @@
 
 - Academico de Engenharia de Computação
 - Softwate Test
-- Contate-me no email: englucas903@gmail.com
+
 
 </div>
   <a href="https://github.com/lucasmello903">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasmello903&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-    </div>
-    
+  
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=lucasmello903&theme=default&show_icons=true&count_private=true)
   
 <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
@@ -20,7 +19,7 @@
 
 ## Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-gabriel-443a551aa/)](https://www.linkedin.com/in/lucas-gabriel-443a551aa/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:englucas903@gmail.com)](mailto:englucas903@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-englucas903@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:englucas903@gmail.com)](mailto:englucas903@gmail.com)
        
         
   </div>
