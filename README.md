@@ -20,8 +20,9 @@
 
 ## Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-gabriel-443a551aa/)](https://www.linkedin.com/in/lucas-gabriel-443a551aa/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:englucas903@gmail.com)](mailto:englucas903@gmail.com)
        
-         
+        
   </div>
  
   
