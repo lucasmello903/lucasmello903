@@ -1,7 +1,8 @@
-## Olá! Me Chamo Lucas Mello
+## Olá! 
 
-- 📫 Contate-me no email: lucasmello903@gmail.com
-- 🎓 Academico de Engenharia de Computação
+- Academico de Engenharia de Computação
+- Softwate Test
+- Contate-me no email: englucas903@gmail.com
 
 </div>
   <a href="https://github.com/lucasmello903">
