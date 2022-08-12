@@ -1,6 +1,6 @@
 ## Olá! 
 
-- Academico de Engenharia de Computação
+- Acadêmico de Engenharia de Computação
 - Softwate Test
 
 
