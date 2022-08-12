@@ -7,7 +7,7 @@
 </div>
   <a href="https://github.com/lucasmello903">
   
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=lucasmello903&theme=default&show_icons=true&count_private=true)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmello903)](https://github.com/lucasmello903/github-readme-stats)
   
 <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
