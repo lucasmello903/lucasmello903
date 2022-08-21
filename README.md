@@ -1,7 +1,7 @@
 ## Olá! 
 
 - Acadêmico de Engenharia de Computação
-- Software Tester
+- Software Tester QA
 
 
 </div>
