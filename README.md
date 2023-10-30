@@ -18,7 +18,7 @@
   <img align="center" alt="Android" height="40"  height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
 
 ## Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-gabriel-443a551aa/)](https://www.linkedin.com/in/lucas-gabriel-443a551aa/) 
+ 
 [![Gmail Badge](https://img.shields.io/badge/-englucas903@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:englucas903@gmail.com)](mailto:englucas903@gmail.com)
        
         
