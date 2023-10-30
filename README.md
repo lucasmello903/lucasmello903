@@ -1,7 +1,7 @@
 ## Olá! 
 
 - Acadêmico de Engenharia de Computação
-- Tester Enginner
+- Tester Engineer
 
 
 </div>
