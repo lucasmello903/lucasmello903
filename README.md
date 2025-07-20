@@ -1,7 +1,6 @@
 ## Olá! 
 
-- Computer Engineer / Project Leader
-
+- Computer Engineer
 
 </div>
   <a href="https://github.com/lucasmello903">
